@@ -22,7 +22,5 @@ $ rm /tmp/checkSslExpire.crt
 
 
 
-{% hint style="info" %}
- cli에서는 파이프(|)를 이용해서 처리해도 될거 같다.
-{% endhint %}
+> cli에서는 파이프(|)를 이용해서 처리해도 될거 같다.
 
